@@ -1,3 +1,3 @@
-# projet-TIJ
+#TODO :
 
-
+*peer -review algorithm descriptions
